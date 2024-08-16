@@ -1,0 +1,2 @@
+# Space Battle Game With Python
+ This project is a simple 2D space shooter game developed using Python and Pygame. In this game, the player controls a spaceship, attempting to destroy incoming meteors while avoiding collisions. The game features animated sprites, sound effects, and background music to enhance the gameplay experience. Players can track their score, and when the game ends, a game-over screen is displayed with options to restart or quit. The game also includes a simple collision detection system and increasing difficulty as the player progresses.
